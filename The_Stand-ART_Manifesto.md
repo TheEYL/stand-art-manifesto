@@ -317,7 +317,7 @@ The movement begins with you.
 The legacy of Stand-ART awaits its architects.
 
 ---
-##9. Glossary of Terms
+## 9. Glossary of Terms
 **Autonomous Artist**: An individual creator or micro-studio that utilizes AI and automation technologies as tools within a creator-directed workflow to independently produce complex artistic works across multiple media without institutional dependencies.
 
 **Autonomous Artist OS**: The integrated system of tools, workflows, and methodologies that enables the Autonomous Artist to operate across all stages of the creative production pipeline.
