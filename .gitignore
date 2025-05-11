@@ -9,6 +9,9 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+vcs.xml
+git_toolbox_prj.xml
+misc.xml
 # AWS User-specific
 .idea/**/aws.xml
 
