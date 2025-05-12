@@ -1,5 +1,7 @@
 # The Modern Software Developer in the Age of AI: From Code Author to System Conductor
 
+**Author: Eyog Yvon Léonce**
+
 ## Abstract
 
 This comprehensive academic analysis examines the profound transformation of software development in the era of Large Language Models (LLMs) and AI-assisted programming. It establishes that while AI has dramatically reduced the friction of code generation, it has simultaneously increased the complexity of system orchestration, governance, and architectural discipline. The essay introduces the concept of the **AI System Conductor**—a new professional archetype that combines traditional programming expertise with the meta-skills required to direct autonomous code-generating agents within structured frameworks. Through extensive examination of emerging practices, philosophical implications, and technical challenges, this work argues that the future of software engineering belongs not to those who code fastest, but to those who can coordinate autonomous systems with unwavering discipline and architectural vision.
@@ -87,7 +89,7 @@ In the context of software development, the developer who lacks the discipline t
 
 ### 4.1 From Code Author to System Orchestrator
 
-The paradox of AI-assisted programming necessitates a fundamental shift in how we conceptualize the role of the software developer. The traditional model of the developer as primarily a code author is giving way to a new archetype: the **AI System Conductor**.
+The paradox of AI-assisted programming necessitates a fundamental shift in how I conceptualize the role of the software developer. The traditional model of the developer as primarily a code author is giving way to a new archetype: the **AI System Conductor**.
 
 This transition can be characterized as:
 
@@ -126,7 +128,7 @@ In the context of AI-assisted development, this principle extends to the governa
 
 ### 5.1 Principles for the Age of Autonomous Generation
 
-Based on empirical observation and theoretical analysis, we propose a comprehensive set of principles for effective software development in the age of AI. These principles constitute what might be termed the "AI Developer Survival Code":
+Based on empirical observation and theoretical analysis, I propose a comprehensive set of principles for effective software development in the age of AI. These principles constitute what might be termed the "AI Developer Survival Code":
 
 1. **Limit functions to 5-10 lines**: Maintain cognitive manageability of each unit of code (Martin, 2008)
 2. **Prefer long, descriptive method names**: Enhance readability and self-documentation
@@ -161,7 +163,7 @@ Similarly, adding AI to an undisciplined development process makes it more chaot
 
 ### 6.1 Governance-First Architecture
 
-The challenges of AI-assisted development necessitate architectural patterns specifically designed to maintain system integrity in the face of rapidly generated code. We propose a "Governance-First Architecture" with the following key components:
+The challenges of AI-assisted development necessitate architectural patterns specifically designed to maintain system integrity in the face of rapidly generated code. I propose a "Governance-First Architecture" with the following key components:
 
 1. **Contract-Driven Interfaces**: Explicit, formal definitions of component interactions
 2. **Validation Layers**: Automated checks for security, performance, and compliance
@@ -173,7 +175,7 @@ These architectural elements serve as guardrails that constrain the potential en
 
 ### 6.2 The Stand-ART Principle of Controlled Chaos
 
-Drawing from the Stand-ART methodology (Eyog, 2023), we can formulate a principle for balancing generative freedom with architectural discipline:
+Drawing from the Stand-ART methodology (Eyog, 2023), I can formulate a principle for balancing generative freedom with architectural discipline:
 
 > **Embrace autonomous generation; constrain it with unyielding architectural discipline.**
 
@@ -292,7 +294,7 @@ This convergence represents the next evolutionary stage of software development�
 
 ### 10.2 The Stand-ART Vision of Software Development
 
-Drawing from the Stand-ART methodology (Eyog, 2023), we can envision a future of software development characterized by:
+Drawing from the Stand-ART methodology (Eyog, 2025), I can envision a future of software development characterized by:
 
 1. **Developer Sovereignty**: Individual developers maintaining full control over architectural decisions
 2. **Technological Integration**: Seamless incorporation of AI tools into unified workflows
@@ -328,7 +330,7 @@ This transformation represents not the end of programming but its evolution into
 - Brooks, F. (1975). *The Mythical Man-Month: Essays on Software Engineering*. Addison-Wesley.
 - Dijkstra, E. W. (1972). *The Humble Programmer*. Communications of the ACM, 15(10), 859-866.
 - Evans, E. (2003). *Domain-Driven Design: Tackling Complexity in the Heart of Software*. Addison-Wesley.
-- Eyog, Y. L. (2023). *The Stand-ART Manifesto*. La Maison des Masques.
+- Eyog, Y. L. (2025). *The Stand-ART Manifesto*. 
 - Fowler, M. (2018). *Refactoring: Improving the Design of Existing Code* (2nd ed.). Addison-Wesley.
 - GitHub. (2022). *GitHub Copilot Productivity Study*. GitHub, Inc.
 - Knuth, D. (1974). *Structured Programming with go to Statements*. Computing Surveys, 6(4), 261-301.
